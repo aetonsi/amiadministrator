@@ -1,7 +1,7 @@
 # amiadministrator
+Simple Windows cli tool to determine if the invocation is elevated.
 
-```
-amiadministrator.exe
-amiadministrator.exe
-> prints "yes" if invoked as administrator, else prints "no"
+# Usage
+```powershell
+.\amiadministrator.exe # prints "yes" if invoked as administrator, else prints "no"
 ```
