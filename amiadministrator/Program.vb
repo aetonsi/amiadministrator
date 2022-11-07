@@ -1,4 +1,4 @@
-﻿Module frmMain
+﻿Module Program
 
     Sub Main()
         Dim identity = Security.Principal.WindowsIdentity.GetCurrent()
